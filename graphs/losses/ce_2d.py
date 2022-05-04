@@ -1,7 +1,5 @@
 """
-loss file for all the loss functions used in this model
-name: loss.py
-date: April 2022
+Cross Entropy 2D for CondenseNet Model
 """
 
 import torch
